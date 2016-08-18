@@ -6,7 +6,7 @@
 .div{
 	border:12px ridge blue;
 	background-color:#FF5E99;
-	width:840px;
+	width:1000px;
 	margin:12px 12px 12px 12px
 	height:600px
 	width:450px
@@ -55,7 +55,7 @@ a:hover{
 	text-decoration:underline;
 }
 a:active{
-	color:orange;
+	color:yellow;
 }
 ul{
 	list-style-type:none;
@@ -214,7 +214,7 @@ n:active{
 	color:orange;
 }
 .c{
-	width:2000px;
+	width:1100px;
 	margin:auto;
 	text-align:center;
 }
