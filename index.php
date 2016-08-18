@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+                                       <title>
+                                <br /> <br />       Vishal Raut
+                                       </title>
+        </head>
+        <link rel="stylesheet" href="main.css" />
+        <body bgcolor="black">
 <?php
    require_once("fn_in.php");
    
@@ -32,16 +42,7 @@ if(empty($errors)){
        }
    }
 ?>
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8" />
-                                       <title>
-                                <br /> <br />       Vishal Raut
-                                       </title>
-        </head>
-        <link rel="stylesheet" href="main.css" />
-        <body bgcolor="black">
+
             <div class="m">
             <form action="index.php" method="post">
               <p class="bigb">Welcome! Vishal Raut</p>
