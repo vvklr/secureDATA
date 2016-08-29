@@ -5,7 +5,7 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
-input[type=text] {
+input{
     background-color: #7C7775;
     color: white;
 }
