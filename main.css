@@ -4,6 +4,7 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
 input[type=text] {
     background-color: #7C7775;
     color: white;
