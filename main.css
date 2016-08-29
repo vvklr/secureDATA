@@ -1,7 +1,9 @@
-.bg{
-    background: url("black-cats-wallpaper-hd-animals-blue-eyes-cats-awesome-wallpaper.jpg");
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
+html { 
+  background: url("black-cats-wallpaper-hd-animals-blue-eyes-cats-awesome-wallpaper.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 .p{
 	font:bold italic 24px Gill Sans MT;
